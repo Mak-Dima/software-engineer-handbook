@@ -12,4 +12,6 @@ A design pattern where UI state flows downward from a state holder to the screen
 * **Immutable States:** Never allow the UI to mutate the state object directly; always require updates to go through the official event pipeline.
 * **Manage Side Effects:** Isolate network requests and database calls from your UI state updates to keep the data flow strictly one-way.
 
+## Intent -> Event -> Effect
+
 [iOS example](../../iOS/UDF)
