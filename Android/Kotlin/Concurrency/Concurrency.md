@@ -1,4 +1,5 @@
 [Coroutines](./Coroutines.jpeg)   
 [CoroutineContext](./CoroutineContext.jpeg)    
+[Local Variables Storage](./Coroutines_Local_Variables_Storage.jpeg)   
 [Coroutines Under The Hood](./Coroutines_Under_The_Hood.jpeg)   
 [Suspension Under The Hood](./Kotlin_Suspension.jpeg)    
