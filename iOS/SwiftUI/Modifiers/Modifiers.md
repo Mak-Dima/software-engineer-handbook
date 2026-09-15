@@ -1,3 +1,4 @@
+[Grid modifiers](./Grid_modifiers.jpeg)    
 [Lifecycle Modifiers](./Lifecycle_Modifiers.jpeg)
 [minimumScaleFactor Modifier](./minimumScaleFactor.jpeg)   
 [Spacer VS .padding Modifier](./Spacer_vs_padding.jpeg)
