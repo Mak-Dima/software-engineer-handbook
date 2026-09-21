@@ -5,4 +5,4 @@
 [Android Garbage Collector](./Android_Garbage_Collector.jpeg)    
 [Application Sandboxing](./Android_Sandbox_Model.jpeg)     
 [Android Security Layout](./Android_Security_Layout.jpeg)       
-[Gradle](./Gradle.jpeg)     
+[Gradle](./Gradle/gradle.md)     
