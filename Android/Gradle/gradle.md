@@ -19,3 +19,4 @@ The main mechanisms are.
 
 6. Custom Gradle tasks — automation around the build.    
 ![](./Gradle_Custom_Builds.jpeg)
+![](./Gradle_Types_Flavors.jpeg)
