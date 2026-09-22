@@ -2,6 +2,7 @@
 [UDF](./unidirectional-data-flow)    
 [OOP](./OOP/Object%20Oriented%20Programming.md)    
 [POP](./POP/Protocol-Oriented%20Programming.md)    
+[Reliabiliry](./Reliability/reliability.md)    
 [VIPER](./VIPER/viper.md)     
 [Data Stream](./data_stream.md)    
 [Load Balancer](./Load_Balancer.md)   
