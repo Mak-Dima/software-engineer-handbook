@@ -8,4 +8,4 @@
 [Data Stream](./data_stream.md)    
 [Load Balancer](./Load_Balancer.md)   
 [Mobile App Logging](./Mobile_App_Logging.md)    
-[Mobile Norifications Lifecycle](./Mobile_Notifications_lifecycle.png)    
+[Push Norifications](./Push_Notifications/push_notifications.md)    
