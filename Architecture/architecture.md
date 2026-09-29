@@ -1,5 +1,6 @@
 [Availability](./Availability/availability.md)   
 [Batch Processing](./Batch_Processing/batch_processing.md)    
+[Latency](./Latency/latency.md)    
 [UDF](./unidirectional-data-flow)    
 [OOP](./OOP/Object%20Oriented%20Programming.md)    
 [POP](./POP/Protocol-Oriented%20Programming.md)    
