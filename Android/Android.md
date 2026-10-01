@@ -1,5 +1,5 @@
-[Kotlin](./Kotlin/)     
-[Jetpack Compose](./JetpackCompose/)        
+[Kotlin](./Kotlin/Kotlin.md)     
+[Jetpack Compose](./JetpackCompose/JetpackCompose.md)        
 [Application UID in Linux kernel](./App_UID.jpeg)    
 [App Startup](./App_Startup.jpeg)     
 [Android Garbage Collector](./Android_Garbage_Collector.jpeg)    
