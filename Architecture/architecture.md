@@ -1,3 +1,4 @@
+[API](./API/api.md)    
 [Availability](./Availability/availability.md)   
 [Batch Processing](./Batch_Processing/batch_processing.md)    
 [Latency](./Latency/latency.md)    
