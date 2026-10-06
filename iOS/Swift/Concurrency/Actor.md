@@ -4,4 +4,4 @@ The simplest way to communicate is to start a detached task from a ⁠@MainActor
 
 If detached task needs to report progress or trigger multiple UI updates over time, explicitly target the ⁠@MainActor⁠ from inside the detached closure using ⁠MainActor.run⁠ or by calling a ⁠@MainActor⁠-isolated method.
 
-![](./Actor_Concept.jpeg)
+![](./resources/Actor_Concept.jpeg)
