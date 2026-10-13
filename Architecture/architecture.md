@@ -7,6 +7,7 @@
 [POP](./POP/Protocol-Oriented%20Programming.md)    
 [Reliabiliry](./Reliability/reliability.md)    
 [Scalability](./Scalability/scalability.md)      
+[SQL vs NoSQL](./SQL_vs_NoSQL/sql_vs_nosql.md)      
 [UDF](./UDF/udf.md)     
 [VIPER](./VIPER/viper.md)     
 [Data Stream](./data_stream.md)    
