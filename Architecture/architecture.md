@@ -6,6 +6,7 @@
 [OOP](./OOP/Object%20Oriented%20Programming.md)    
 [POP](./POP/Protocol-Oriented%20Programming.md)    
 [Reliabiliry](./Reliability/reliability.md)    
+[REST](./REST/rest.md)     
 [Scalability](./Scalability/scalability.md)      
 [SQL vs NoSQL](./SQL_vs_NoSQL/sql_vs_nosql.md)      
 [UDF](./UDF/udf.md)     
