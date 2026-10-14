@@ -1,3 +1,4 @@
+[Recomposition And Stability](./Recomposition_And_Stability/recomposition_and_stability.md)     
 [Rendering](./Rendering/rendering.md)    
 [Android Activity](./Android_Activity.png)     
 [Layout Constraint - Measure - Placement](./Jetpack_Compose_Layout-Constraint-Measure-Placement.jpeg)    
@@ -7,6 +8,5 @@
 [Modifier](./Modifier.jpeg)             
 [Mutable State](./MutableState<T>.jpeg)   
 [Side Effects](./SideEffects.jpeg)          
-[Smart Recomposition & Stability](./Smart_Recomposition_&_Stability.jpeg)                
 [State Hoisting](./State_Hoisting.jpeg)                 
 [Unstable Parameter](./Unstable_Parameter.jpeg)     
