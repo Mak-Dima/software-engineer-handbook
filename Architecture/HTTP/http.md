@@ -1,0 +1,2 @@
+HTTP headers are metadata sent between an HTTP client and server with every request and response. They describe the message, provide authentication, control caching, define content formats, manage connections, and influence browser security.
+![](./HTTP_Headers_Cheat_Sheet.jpeg)
