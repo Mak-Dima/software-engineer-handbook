@@ -1,6 +1,7 @@
 [API](./API/api.md)    
 [Availability](./Availability/availability.md)   
-[Batch Processing](./Batch_Processing/batch_processing.md)    
+[Batch Processing](./Batch_Processing/batch_processing.md)      
+[Caching](./Caching/caching.md)       
 [HTTP](./HTTP/http.md)       
 [Latency](./Latency/latency.md)    
 [UDF](./unidirectional-data-flow)    
