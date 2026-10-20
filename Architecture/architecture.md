@@ -2,6 +2,7 @@
 [Availability](./Availability/availability.md)   
 [Batch Processing](./Batch_Processing/batch_processing.md)      
 [Caching](./Caching/caching.md)       
+[Fault Tolerance](./Fault%20Tolerance/fault_tolerance.md)     
 [HTTP](./HTTP/http.md)       
 [Latency](./Latency/latency.md)    
 [UDF](./unidirectional-data-flow)    
