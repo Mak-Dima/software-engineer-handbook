@@ -2,6 +2,7 @@
 [Availability](./Availability/availability.md)   
 [Batch Processing](./Batch_Processing/batch_processing.md)      
 [Caching](./Caching/caching.md)       
+[CAP Theorem](./CAP_Theorem/cap_theorem.md)     
 [DI Dependency Ijection](./DI_Dpendency_Injection/dependency_injection.md)       
 [Fault Tolerance](./Fault%20Tolerance/fault_tolerance.md)     
 [HTTP](./HTTP/http.md)       
