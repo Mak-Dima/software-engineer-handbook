@@ -1,4 +1,5 @@
 [DataStore](./DataStore/datastore.md)      
+[Development Patterns](./Development_patterns/development_patterns.md)       
 [Recomposition And Stability](./Recomposition_And_Stability/recomposition_and_stability.md)     
 [Rendering](./Rendering/rendering.md)    
 [Android Activity](./Android_Activity.png)     
