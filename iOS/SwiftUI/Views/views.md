@@ -1,3 +1,4 @@
+[View Behaviur Types](./View_Behavior_Types/view_bihavior_types.md)         
 [ViewThatFits](./ViewThatFits/viewthatfits.md)       
 [AnyView](./AnyView.jpeg)      
 [Grid VS VStack/HStack](./Grid_VS_Stacks.jpeg)       
