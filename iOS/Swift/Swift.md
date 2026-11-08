@@ -1,6 +1,7 @@
 [Concurrency](./Concurrency/concurrency.md)      
 [Memory Model](./Memory_Model/memory_model.md)    
 [Runtime](./Runtime/runtime.md)         
+[Two Phase Initialization](./Two_Phase_Initialization/two_phase_initilalization.md)         
 [@escaping attribute](./@escaping_attribute.jpeg)               
 [AnyHashable](./AnyHashable.jpeg)               
 [final Keyword](./final_keyword.jpeg)               
