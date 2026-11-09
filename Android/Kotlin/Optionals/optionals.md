@@ -4,7 +4,7 @@
 
 - ? — declare nullable types.
 - ?. — safely access properties and methods.
-- ?: — provide a default value (Elvis operator).
+- ?: — provide a default value ([Elvis operator](./Elvis_Operator.jpeg)).
 - ?.let {} — execute logic only when a value is not null.
 - !! — force non-null assertion (use carefully).
 - filterNotNull() — remove null values from collections.

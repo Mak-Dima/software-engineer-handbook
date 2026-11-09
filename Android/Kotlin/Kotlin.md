@@ -1,6 +1,7 @@
 [Compilation](./Compilation/compilation.md)    
 [Concurrency](./Concurrency/Concurrency.md)     
-[Memory Model](./Memory_model/memory_model.md)      
+[Memory Model](./Memory_model/memory_model.md)        
+[Optionals](./Optionals/optionals.md)     
 [Companion Object](./CompanionObject.jpeg)     
 [Destructing](./Destructiong.jpeg)      
 [Elvis Operator](./Elvis_Operator.jpeg)     
