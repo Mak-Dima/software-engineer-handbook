@@ -62,7 +62,7 @@ Frequent Recompositions & Performance: If state is read too high up in the compo
 Unstable Types: The Compose compiler attempts to skip recomposition if input parameters haven't changed. If your parameters use mutable collections or classes that aren't marked as stable (or immutable), Compose assumes they changed and forces a recomposition.
 Side Effects in Composition: Composable functions can execute frequently and out of order (due to concurrent recomposition or animations). Performing network requests, database writes, or mutating global variables directly inside a @Composable body will lead to unpredictable bugs. Use effect handlers like LaunchedEffect or rememberCoroutineScope instead.
 
-[Jetpack Compose vs SwiftUI]()
+[Jetpack Compose vs SwiftUI](../../../Compare_SwiftUI_and_Jetpack_Compose/State_UI_Structure.jpeg)
 
 ### Interview Answer
 Likely Question
