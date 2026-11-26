@@ -3,6 +3,7 @@
 [Batch Processing](./Batch_Processing/batch_processing.md)      
 [Caching](./Caching/caching.md)         
 [CAP Theorem](./CAP_Theorem/cap_theorem.md)     
+[Database Indexing](./Database_Indexing/database_indexing.md)      
 [Database Sharding](./Database_Sharding/database_sharding.md)        
 [DI Dependency Ijection](./DI_Dpendency_Injection/dependency_injection.md)       
 [Fault Tolerance](./Fault%20Tolerance/fault_tolerance.md)     
